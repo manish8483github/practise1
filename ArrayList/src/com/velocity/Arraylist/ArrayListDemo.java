@@ -11,6 +11,7 @@ public class ArrayListDemo {
 		list.add("pune");
 		list.add("mumbai");
 		list.add("thane");
+		list.add("delhi");
 		System.out.println(list);
 	}
 }
